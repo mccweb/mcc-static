@@ -1,0 +1,17 @@
+.callouts a[href] {
+    color: white;
+    background-color: var(--secondary);
+    padding: 1em;
+    border-radius: 12px;
+    display: block;
+    margin-top: 1em;
+    text-align: center;
+}
+
+.callouts a[href]:hover, .callouts a[href]:focus {
+    background-color: var(--gray);
+}
+
+.callouts a[href]:focus {
+    outline: 2px dashed white;
+}
