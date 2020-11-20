@@ -24,12 +24,3 @@ fields:
   - type: number
     name: order
     label: order
-pages:
-- pages/course-content-checklist.md
-- pages/kaltura.md
-- pages/microsoft-teams.md
-- pages/multimedia.md
-- pages/pdfs.md
-- pages/powerpoint.md
-- pages/tips-for-making-accessible-videos.md
-- pages/webex.md
