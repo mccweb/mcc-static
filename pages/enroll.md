@@ -7,7 +7,6 @@ eleventyNavigation:
   order: "1"
 
 ---
-
 <div class="embed-container overflow"><iframe src="//www.youtube.com/embed/AFyt7KyBG4g?rel=0" width="300" height="150" frameborder="0" allowfullscreen=""></iframe></div>
 <h3>It's Never Too Early to Start Planning for the Next Semester</h3>
 <p>Manchester Community College is the most popular two-year college choice among recent Connecticut high school grads and fourth out of all colleges and universities.</p>
@@ -16,24 +15,20 @@ eleventyNavigation:
 <blockquote>
 <p>MCC offers classes online, on campus or a combination of both during the Fall 2020 semester. Read about the course instruction choices on the <a href="https://www.manchestercc.edu/enrollment/registrar/safe-learning-options/">Safe Learning Options</a> page.</p>
 </blockquote>
-<h3>Ready to Register?&nbsp; Here's What You Need to Enroll for the Spring 2021 Semester</h3>
-<h4>New Students (First time in college, or new to MCC)</h4>
-<ol>
- 	<li>Get started by <a href="https://ct.elluciancrmrecruit.com/Apply/">applying online</a>. Fill out the form, provide proof of high school or college graduation or GED, and submit <a href="/wp-content/uploads/Immunization-Form.pdf">proof of two doses of measles, mumps, rubella and varicella immunizations</a> and you'll be on your way to a degree or certificate.</li>
- 	<li>Send in your SAT scores or HS Transcript.&nbsp; If you are transferring to MCC, send an official transcript from your previous institution.</li>
- 	<li>Check out MCC's <a href="/acceptance">Accepted Students </a>page.</li>
- 	<li>Attend the virtual <a href="https://www.manchestercc.edu/enrollment/new-student-orientation/">New Student Orientation</a> where you will learn about the tools necessary to succeed at MCC and have the opportunity to connect with an advisor.&nbsp; You will also have the opportunity to have a schedule built for you with the new<a href="/opt-in"> "Opt-in Registration".</a></li>
- 	<li>Connect with your advisor/register for courses.</li>
-</ol>
+
+<h3>Enrollment Services Available Saturday, December 5</h3>  
+Need to connect with an enrollment office but just don’t have enough time during the week? Connect with us on Saturday, December 5. Please take a few minutes to fill out the <a href="[https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUOEhFQ1dMOExUNkNUTVE5NlU5M0NXVDVQVS4u](https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUOEhFQ1dMOExUNkNUTVE5NlU5M0NXVDVQVS4u "https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUOEhFQ1dMOExUNkNUTVE5NlU5M0NXVDVQVS4u")">contact form</a> and let us know what you need and how we can help. 
+
+<h3>Ready to Register?  Here's What You Need to Enroll for the Spring 2021 Semester</h3> <h4>New Students (First time in college, or new to MCC)</h4> <ol> <li>Get started by <a href="https://ct.elluciancrmrecruit.com/Apply/">applying online</a>. Fill out the form, provide proof of high school or college graduation or GED, and submit <a href="/wp-content/uploads/Immunization-Form.pdf">proof of two doses of measles, mumps, rubella and varicella immunizations</a> and you'll be on your way to a degree or certificate.</li> <li>Send in your SAT scores or HS Transcript.  If you are transferring to MCC, send an official transcript from your previous institution.</li> <li>Check out MCC's <a href="/acceptance">Accepted Students </a>page.</li> <li>Attend the virtual <a href="https://www.manchestercc.edu/enrollment/new-student-orientation/">New Student Orientation</a> where you will learn about the tools necessary to succeed at MCC and have the opportunity to connect with an advisor.  You will also have the opportunity to have a schedule built for you with the new<a href="/opt-in"> "Opt-in Registration".</a></li> <li>Connect with your advisor/register for courses.</li> </ol>
 
 <hr>
 
 <h4>Continuing Students</h4>
 <p>Register one of three ways:</p>
 <ol>
- 	<li>Through your <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html">myCommNet</a> account.</li>
- 	<li>Schedule a time to <a href="/offices/student-affairs/advising-counseling/academic-advising/connect-with-advising/">talk with an advisor</a>.</li>
- 	<li>Have an advisor <a href="/opt-in">build a schedule</a> for you.</li>
+<li>Through your <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html">myCommNet</a> account.</li>
+<li>Schedule a time to <a href="/offices/student-affairs/advising-counseling/academic-advising/connect-with-advising/">talk with an advisor</a>.</li>
+<li>Have an advisor <a href="/opt-in">build a schedule</a> for you.</li>
 </ol>
 
 <hr>
@@ -43,25 +38,25 @@ eleventyNavigation:
 
 <a href="/enrollment/admissions/connect-with-admissions-staff/">Admissions</a>
 <ul>
- 	<li>Issues with applying to the college</li>
- 	<li>Questions about transfer evaluations, AP credits, etc.</li>
+<li>Issues with applying to the college</li>
+<li>Questions about transfer evaluations, AP credits, etc.</li>
 </ul>
 <a href="/offices/student-affairs/advising-counseling/academic-advising/connect-with-advising/">Advising</a>
 <ul>
- 	<li>Registering for courses, transferring to another college</li>
+<li>Registering for courses, transferring to another college</li>
 </ul>
 <a href="/enrollment/financial-aid/connect-with-financial-aid-staff/">Financial Aid</a>
 <ul>
- 	<li>Questions about Financial Aid, FAFSA, etc.</li>
+<li>Questions about Financial Aid, FAFSA, etc.</li>
 </ul>
 <a href="/enrollment/new-student-orientation/">First Year/New Student Programs</a>
 <ul>
- 	<li>Registration for new/first year students</li>
- 	<li>New Student Orientation</li>
+<li>Registration for new/first year students</li>
+<li>New Student Orientation</li>
 </ul>
-<a href="/enrollment/registrar/connect-with-registrars-office-staff/">Registrar&nbsp;</a>
+<a href="/enrollment/registrar/connect-with-registrars-office-staff/">Registrar </a>
 <ul>
- 	<li>Questions about prerequisite overrides, transcripts, enrollment verification, immunizations, etc.</li>
+<li>Questions about prerequisite overrides, transcripts, enrollment verification, immunizations, etc.</li>
 </ul>
 
 <hr>
@@ -72,11 +67,11 @@ eleventyNavigation:
 <hr>
 
 <h3>Paying for Your Classes</h3>
-<p>Make sure you put&nbsp;together a solid plan for paying your tuition. If you haven't already, apply for <a href="/enrollment/financial-aid/">financial aid</a> and, please note, you have to apply each year.</p>
+<p>Make sure you put together a solid plan for paying your tuition. If you haven't already, apply for <a href="/enrollment/financial-aid/">financial aid</a> and, please note, you have to apply each year.</p>
 
-<p>If you are not eligible for financial aid, please remember&nbsp;that a portion of your <a href="/enrollment/paying-for-college/tuition-and-fees/">tuition and fees</a> &nbsp;- if not all - are due at the time you register. A <a href="/enrollment/paying-for-college/">payment plan</a>&nbsp;is&nbsp;available.</p>
+<p>If you are not eligible for financial aid, please remember that a portion of your <a href="/enrollment/paying-for-college/tuition-and-fees/">tuition and fees</a>  - if not all - are due at the time you register. A <a href="/enrollment/paying-for-college/">payment plan</a> is available.</p>
 
-<p>There may also&nbsp;be some scholarship money available. The library has put together an online <a href="http://libguides.manchestercc.edu/friendly.php?s=scholarships">guide</a> that might help.</p>
+<p>There may also be some scholarship money available. The library has put together an online <a href="http://libguides.manchestercc.edu/friendly.php?s=scholarships">guide</a> that might help.</p>
 
 <p>Don't go through the process of designing your ideal schedule just to be dropped for non-payment. Plan early.</p>
 
