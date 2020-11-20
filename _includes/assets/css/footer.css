@@ -1,0 +1,45 @@
+:root {
+	--gray: #26292C;
+}
+
+footer {
+    background: var(--gray);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer * {
+    color: white;
+}
+
+footer nav ul {
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    list-style-type: none;
+}
+
+@media screen and (max-width: 575px) {
+    footer nav ul {
+        display: initial;
+        margin: 0;
+    }
+    footer nav ul li {
+        padding: 1em 0;
+    }
+    footer nav ul li a {
+        padding: 1em;
+    }
+}
+
+footer nav[aria-label="footer navigation"] > ul li a[href], footer nav[aria-label="footer navigation"] > ul li a[href="visited"] {
+    color: white;
+    text-decoration: underline;
+    margin: 0 1em;
+}
+
+footer nav[aria-label="footer navigation"] > ul li a[href]:focus {
+    outline: 2px dashed white;
+}

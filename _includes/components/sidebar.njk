@@ -1,0 +1,57 @@
+{% if page.url == "/" or page.url == "/search/" %}
+<h2>Quick Links</h2>
+<nav aria-label="homepage quicklinks">
+    <ul class="quick-links">
+        {% for link in quicklinks %}
+            <li>
+                <a href={{ link.url }}>{{ link.name }}</a>
+            </li>
+        {% endfor %}
+    </ul>
+</nav>
+{% endif %}
+
+{# Set variable for each collection #}
+{# and check if the current page path #}
+{# begins with collection name #}
+{% set regExpCouncil = r/^\/council/g %}
+{% set regExpResources = r/^\/resources/g %}
+{% set regExpTraining = r/^\/training/g %}
+
+{% set councilPages = collections.council | eleventyNavigation %}
+{% set resourcePages = collections.resources | eleventyNavigation %}
+{% set trainingPages = collections.training | eleventyNavigation %}
+
+{% macro renderNavListItem(entry) -%}
+<li>
+    <a href="{{ entry.url | url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+    {%- if entry.children.length -%}
+        <ul>
+            {%- for child in entry.children %}{{ renderNavListItem(child) }}{% endfor -%}
+        </ul>
+    {%- endif -%}
+</li>
+{%- endmacro %}
+
+{% if regExpCouncil.test(page.url) %}
+<h2>In This Section</h2>
+<nav aria-label="All council pages">
+    <ul>
+        {%- for entry in councilPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
+{% elif regExpResources.test(page.url) %}
+<h2>In This Section</h2>
+<nav aria-label="All resources pages">
+    <ul>
+        {%- for entry in resourcePages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
+{% elif regExpTraining.test(page.url) %}
+<h2>In This Section</h2>
+<nav aria-label="All training pages">
+    <ul>
+        {%- for entry in trainingPages %}{{ renderNavListItem(entry) }}{%- endfor -%}
+    </ul>
+</nav>
+{% endif %}

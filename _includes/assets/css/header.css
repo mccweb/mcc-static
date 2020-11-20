@@ -1,0 +1,29 @@
+:root {
+    --nav-link-color: #2D2F32
+}
+
+header {
+	background: #fff;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1), 0 0px 20px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header > .logo > img {
+    margin-right: 1em;
+}
+
+header > .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+header > .logo > a[href], header > .logo > a[href]:visited {
+    font-weight: 700;
+    color: var(--nav-link-color);
+    font-size: 2em;
+}

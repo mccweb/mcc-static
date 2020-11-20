@@ -1,0 +1,35 @@
+---
+label: Default page
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: permalink
+  label: permalink
+- type: text
+  name: tags
+  label: tags
+- type: field_group
+  name: eleventyNavigation
+  label: eleventyNavigation
+  fields:
+  - type: text
+    name: key
+    label: key
+  - type: text
+    name: parent
+    label: parent
+  - type: number
+    name: order
+    label: order
+pages:
+- pages/course-content-checklist.md
+- pages/kaltura.md
+- pages/microsoft-teams.md
+- pages/multimedia.md
+- pages/pdfs.md
+- pages/powerpoint.md
+- pages/tips-for-making-accessible-videos.md
+- pages/webex.md

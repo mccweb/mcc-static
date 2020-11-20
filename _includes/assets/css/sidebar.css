@@ -1,0 +1,44 @@
+.page > .sidebar {
+	flex-basis: 20rem;
+    flex-grow: 1;
+	position: relative;
+	background: var(--primary);
+}
+
+.page > .sidebar > * {
+    color: white;
+}
+
+.page > .sidebar > nav {
+    padding: 0;
+    margin: 0;
+    background: white;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.1), 0 10px 20px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+}
+
+.page > .sidebar > nav > ul {
+    padding: 1em;
+}
+
+.page > .sidebar ul {
+    list-style-type: none;
+}
+
+.page > .sidebar > nav > ul * + * {
+    margin-top: 1em;
+}
+
+.page > .sidebar ul li a {
+    display: block;
+}
+
+.page > .sidebar ul li a[aria-current] {
+    text-decoration: underline;
+}
+
+@media print {
+    .page > .sidebar > nav {
+        box-shadow: none;
+    }
+}

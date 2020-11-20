@@ -1,0 +1,18 @@
+<footer>
+  <small>
+    61 Woodland Street<br />
+    Hartford, CT 06105<br />
+    <hr />
+    &copy CSCU
+  </small>
+  <nav aria-label="footer navigation">
+  {% set navPages = collections.all | eleventyNavigation %}
+  <ul>
+  {%- for entry in navPages %}
+    <li>
+      <a href="{{ entry.url | url }}"{% if entry.url == page.url %} aria-current="page"{% endif %}>{{ entry.title }}</a>
+    </li>
+  {%- endfor %}
+  </ul>
+</nav>
+</footer>
