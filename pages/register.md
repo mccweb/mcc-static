@@ -118,7 +118,7 @@ The deadline dates for applying for graduation are:
 
 Students who are eligible for graduation should complete an application; however, if you have questions regarding your courses or program, you should see an advisor, and for any questions regarding the application process, please contact Degree Auditor, Matthew Bonesteel, [mbonesteel@manchestercc.edu](mailto:mbonesteel@mcc.commnet.edu).
 
-[Download the graduation application](/static/img/graduation-application.pdf)
+[Download the graduation application](/ot0mscqrzaifea/body-media//static/img/graduation-application.pdf)
 
 For important dates and key deadlines, please refer to the [Academic Calendar](https://www.ct.edu/academics/calendar).
 
