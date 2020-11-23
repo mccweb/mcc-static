@@ -1,10 +1,7 @@
 ---
 title: Academic Programs
 permalink: /academics/programs/index.html
-tags: academics
-eleventyNavigation:
-  key: Academic Programs
-  order: "2"
+tags: programs
 ---
 
 * [Accounting](/academics/programs/accounting/index.html)
