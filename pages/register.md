@@ -32,18 +32,16 @@ Student Services Center, L157
 
 ## Resources
 
-* [COVID-19 Information for Students](/covid-19-information/)
+* [COVID-19 Information for Students](https://app.forestry.io/sites/ot0mscqrzaifea/#/pages/pages-covid-19-information-md/)
 * [Request to Change Credit/No-Credit To Letter Grade (Spring 2020 Only)](/form-depot/change-back-to-letter-grade-request/)
 * [Request Transcript](../transcripts/)
 * [Search for Courses](https://ssb-prod.ec.commnet.edu/pls/x/bzskfcls.P_CrseSearch)
-* [Senior Citizens Registration Form](/enrollment/registrar/senior-citizen-registration/)
 * [Student Rights-FERPA Notice](http://catalog.mcc.commnet.edu/content.php?catoid=10&navoid=1049#students_rights)
 * [Withdrawal and Refund Policies](/withdrawal-and-refund-policies)
 
 ## To meet with an advisor:
 
 * To schedule an appointment with an advisor, send an email to [geninfocounseling@manchestercc.edu](mailto:geninfocounseling@manchestercc.edu).
-* Please view the YouTube tutorials for [DegreeWorks](https://www.youtube.com/watch?v=odDEE3VEgC8&feature=youtu.be) and help with [Adding/Dropping](https://www.youtube.com/watch?v=IXLflm5XqXY&feature=youtu.be) a course.
 
 Registration is now open. New students:  You should have received an email from the Admissions Office with your placement.  Please view the [New Student Orientation](/enrollment/new-student-orientation/) page for more information.
 
@@ -51,7 +49,7 @@ Registration is now open. New students:  You should have received an email from
 
 There are four academic registration periods: Fall, Winter, Spring and Summer.
 
-**Fall and Spring:** General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring. 
+**Fall and Spring:** General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring.
 
 **Winter:** Accelerated credit extension courses run for three weeks in between the fall and spring semesters.
 
@@ -119,8 +117,6 @@ The deadline dates for applying for graduation are:
 * For **December** graduation, the deadline date is **October 15**.
 
 Students who are eligible for graduation should complete an application; however, if you have questions regarding your courses or program, you should see an advisor, and for any questions regarding the application process, please contact Degree Auditor, Matthew Bonesteel, [mbonesteel@manchestercc.edu](mailto:mbonesteel@mcc.commnet.edu).
-
-Applications are available by clicking the application link below. For more information, visit the [Path to Graduation](/current-students/success/path-to-graduation/) webpage, which provides answers to frequently asked questions and resources for all students as you prepare for graduation and a successful transition after college.
 
 [Download the graduation application](/static/img/graduation-application.pdf)
 
