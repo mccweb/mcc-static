@@ -1,7 +1,7 @@
 ---
 title: Academic Calendar
-permalink: "/academic-calendar/index.html"
-tags: calendar
+permalink: "/academics/calendar/index.html"
+tags: academics
 
 ---
 <h2>2020/2021 Calendars</h2>
