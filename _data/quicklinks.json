@@ -2,5 +2,9 @@
     {
         "name": "COVID-19 Information",
         "url": "/covid-19-information/index.html"
+    },
+    {
+        "name": "Academic Calendar",
+        "url": "https://www.ct.edu/academics/calendar"
     }
 ]
