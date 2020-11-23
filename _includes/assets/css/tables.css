@@ -64,7 +64,7 @@ table td a {
   min-width: 20em;
 }
 
-@media screen and (max-width: 52em), print and (max-width: 5in) {
+/* @media screen and (max-width: 52em), print and (max-width: 5in) {
   table,
   tr,
   td {
@@ -101,7 +101,7 @@ table td a {
   td:nth-of-type(2)::before {
     font-style: normal;
   }
-}
+} */
 
 @media print {
   body {
