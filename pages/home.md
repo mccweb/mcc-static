@@ -43,7 +43,7 @@ eleventyNavigation:
     </tr>
     <tr>
       <td>Disability Services</td>
-      <td><a href="mailto:geninfostudentsupport@manchestercc.edu">GenInfoStudentSupport@manchestercc.edu</a></td>
+      <td><a href="mailto:geninfostudentsupport@manchestercc.edu">geninfostudentsupport@manchestercc.edu</a></td>
       <td>860-512-3590</td>
     </tr>
     <tr>
