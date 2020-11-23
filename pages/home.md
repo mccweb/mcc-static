@@ -11,7 +11,7 @@ eleventyNavigation:
 
 <p><a href="https://ct.elluciancrmrecruit.com/Apply" aria-describedby="external">Apply to Manchester Community College</a></p>
 <p>While the main Manchester Community College website is still offline, please use this temporary website as your resource for important information.</p>
-<p>For the info you need regarding COVID-19 guidelines and resources, visit the <a href="covid-19-information.html">COVID-19 Information</a> page.</p>
+<p>For the info you need regarding COVID-19 guidelines and resources, visit the <a href="/covid-19-information/index.html">COVID-19 Information</a> page.</p>
 <p>If you are trying to connect with a certain department or sign up for an appointment, please use the contact information below.</p>
 <p>You can still search for courses, register, access Banner services, Blackboard and Office 365 via <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html" aria-describedby="external">myCommNet</a>. You can also visit the <a href="http://catalog.mcc.commnet.edu/">2020-2021 Catalog</a>.</p>
 <div class="overflow" tabindex="0" role="region" aria-labelledby="cap1">
