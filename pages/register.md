@@ -24,7 +24,7 @@ We are still here! Just in a slightly different capacity. Contact a Registrar's
 
 Student Services Center, L157 860-512-3220 (phone) 860-512-3221 (fax) [GenInfoRegistrar@manchestercc.edu](mailto:GenInfoRegistrar@manchestercc.edu) (email)
 
-*   [COVID-19 Information for Students](/about/covid-19-information/)
+*   [COVID-19 Information for Students](/covid-19-information/)
 *   [Request to Change Credit/No-Credit To Letter Grade (Spring 2020 Only)](/form-depot/change-back-to-letter-grade-request/)
 *   [Request Transcript](../transcripts/)
 *   [Search for Courses](/programs-courses/search-for-courses/)
