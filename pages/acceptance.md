@@ -1,5 +1,5 @@
 ---
-title: Acceptance
+title: Accepted Students
 permalink: "/acceptance/index.html"
 tags: acceptance
 
@@ -38,17 +38,19 @@ This portal will give you access to all of your student information.  When logg
 
 ### 4. Finalize all admissions paperwork
 
-Proof of high school graduation and immunization to measles, mumps, rubella and varicella (MMRV) are required by the State of Connecticut of all students* that are enrolling into a degree program, attending full-time, and/or receiving financial aid. The Registrar's Office has provided an [Immunization Verification](/static/img/immunization-form.pdf) form.  However a record of vaccinations from a physician's office is also accepted. If you do not have access to your records, request a Titer (blood) test of all four diseases before getting any shots. High school graduation documents include a copy of your diploma, transcript, or GED. Students that have completed an associate degree or higher can use their college diploma or transcript in lieu of high school graduation documents.
+Proof of high school graduation and immunization to measles, mumps, rubella and varicella (MMRV) are required by the State of Connecticut of all students* that are enrolling into a degree program, attending full-time, and/or receiving financial aid. The Registrar's Office has provided an [Immunization Verification](/static/img/immunization-form.pdf) form. However, a record of vaccinations from a physician's office is also accepted. If you do not have access to your records, request a Titer (blood) test of all four diseases before getting any shots. High school graduation documents include a copy of your diploma, transcript, or GED. Students that have completed an associate degree or higher can use their college diploma or transcript in lieu of high school graduation documents.
 
 Non-degree/non-matriculated students do not have to provide immunization records. However, financial aid is not available to students who are not matriculated in a degree program.
 
 ### 5. Register for classes
 
-All new students and incoming transfer students need to complete the [New Student Orientation](https://www.manchestercc.edu/enrollment/new-student-orientation/) course. The orientation will teach you how to navigate our college's procedures and tools, how to register for your classes, and how to connect with an MCC Advisor. Also, you will need to attend [Cougar Class](/apps/ncc/) to learn about campus services and academic policies. Prior to registering, please make sure your placement documents and transcripts are on file with the Admissions Office.  This will ensure that you receive the best advising experience. Without placement information and/or transfer credits in the system, the Advising team will be limited in how they can assist you!
+All new students and incoming transfer students need to complete the New Student Orientation course. The orientation will teach you how to navigate our college's procedures and tools, how to register for your classes, and how to connect with an MCC Advisor. All new students are enrolled in the New Student Orientation upon being accepted into Manchester Community College. To access the NSO portal, please set up your myCommNet account and proceed to Blackboard. Once inside your Blackboard Account you will see the New Student Orientation course. Should you wish to speak with an advisor, Step 4 of the NSO will allow you to request an appointment. 
+
+Also, you will need to attend Cougar Class to learn about campus services and academic policies, which can be arranged by [emailing TJ Barber](mailto:tbarber@mcc.commnet.edu) or by calling him at 860-512-3282. Prior to registering, please make sure your placement documents and transcripts are on file with the Admissions Office. This will ensure that you receive the best advising experience. Without placement information and/or transfer credits in the system, the Advising team will be limited in how they can assist you!
 
 ### 6. Finalize all payment arrangements
 
-Visit the [Bursar's](https://www.manchestercc.edu/enrollment/paying-for-college/tuition-and-fees/) web page for more information regarding tuition and fees and acceptable forms of payment.  MCC does reserve the right to drop students for non-payment, but this is not a guarantee. Financial aid and all required documents must be completed prior to paying for classes.  Visit myCommNet to check the status of your aid and any outstanding requirements. Students entering MCC as _New, First-Time_ college students are eligible to receive funding through the Pledge to Advance Connecticut (PACT) program.  Students must have a FAFSA on file and register for at least 12 credits no later than July 15, 2020.  Note that taking a summer course prior to the start of Fall 2020 will result in ineligibility to participate in PACT.
+Contact the Bursar's office at [geninfobursars@manchestercc.edu](mailto:geninfobursars@manchestercc.edu) or 860-512-3640 for more information regarding tuition and fees and acceptable forms of payment. MCC does reserve the right to drop students for non-payment, but this is not a guarantee. Financial aid and all required documents must be completed prior to paying for classes.  Visit myCommNet to check the status of your aid and any outstanding requirements. Students entering MCC as _New, First-Time_ college students are eligible to receive funding through the Pledge to Advance Connecticut (PACT) program. Students must have a FAFSA on file and register for at least 12 credits no later than July 15, 2020. Note that taking a summer course prior to the start of Fall 2020 will result in ineligibility to participate in PACT.
 
 Continue to use the MCC website as a resource, as well. Information on deadlines, programs, classes and campus services and activities can be found here.
 
