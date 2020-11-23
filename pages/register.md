@@ -21,7 +21,7 @@ We are still here! Just in a slightly different capacity. Contact a Registrar's
 * November 24 - PACT deadline
 * November 25 - No classes, administrative offices open
 * November 26-29 - Thanksgiving recess (no classes, offices closed)
-* December 7 - Last day of classes/ last day to withdraw from classes
+* December 7 - Last day of classes/last day to withdraw from classes
 
 ## Contact
 
@@ -63,7 +63,7 @@ Students interested in transferring credits to MCC should have their prior colle
 
 ## Add/Drop
 
-Add/drop can be done online through mycommnet, normally through the first week of classes for the full semester course.  For accelerated classes that meet less than the full 15 week semester, add/drop ends before the classes begin. You can read more about the withdrawal policy on the [withdrawal/refund page](/enrollment/registrar/withdrawal-and-refund-policies/)
+Add/drop can be done online through myCommNet, normally through the first week of classes for the full semester course.  For accelerated classes that meet less than the full 15 week semester, add/drop ends before the classes begin. You can read more about the withdrawal policy on the [withdrawal/refund page](/enrollment/registrar/withdrawal-and-refund-policies/)
 
 ## Transcripts
 
@@ -116,7 +116,7 @@ The deadline dates for applying for graduation are:
 * For **August** graduation, the deadline date is **July 15**.
 * For **December** graduation, the deadline date is **October 15**.
 
-Students who are eligible for graduation should complete an application; however, if you have questions regarding your courses or program, you should see an advisor, and for any questions regarding the application process, please contact Degree Auditor, Matthew Bonesteel, [mbonesteel@mcc.commnet.edu](mailto:mbonesteel@mcc.commnet.edu).
+Students who are eligible for graduation should complete an application; however, if you have questions regarding your courses or program, you should see an advisor, and for any questions regarding the application process, please contact Degree Auditor, Matthew Bonesteel, [mbonesteel@manchestercc.edu](mailto:mbonesteel@mcc.commnet.edu).
 
 Applications are available by clicking the application link below. For more information, visit the [Path to Graduation](/current-students/success/path-to-graduation/) webpage, which provides answers to frequently asked questions and resources for all students as you prepare for graduation and a successful transition after college.
 
