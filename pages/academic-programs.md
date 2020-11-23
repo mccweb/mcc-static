@@ -5,7 +5,7 @@ tags: programs
 ---
 
 * [Accounting](/academics/programs/accounting/index.html)
-* Anthropology
+* [Anthropology](/academics/programs/anthropology/index.html)
 * Biology
 * Business
 * Business Office Technology

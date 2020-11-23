@@ -1,6 +1,6 @@
 ---
 title: Academic Calendar
-permalink: "/academics/calendar/index.html"
+permalink: "/catalogs/academic-calendar/index.html"
 tags: academics
 
 ---
@@ -245,9 +245,9 @@ tags: academics
 </tbody>
 </table>
 </div>
-Summer last day to drop - Last business day before class start of that specific summer session
-Summer last day to withdraw - Two-thirds the specific summer session
-**Administrative offices open.
-***Reading days are to be used as study days and/or optional make-up class time at the discretion of the faculty members. No faculty member will be assigned additional duty during the scheduled reading days and no student shall be penalized for not attending any activities/classes on a reading day.
+<p>Summer last day to drop - Last business day before class start of that specific summer session</p>
+<p>Summer last day to withdraw - Two-thirds the specific summer session</p>
+<p>**Administrative offices open.</p>
+<p>***Reading days are to be used as study days and/or optional make-up class time at the discretion of the faculty members. No faculty member will be assigned additional duty during the scheduled reading days and no student shall be penalized for not attending any activities/classes on a reading day.</p>
 
 <em>The term "college closed" means that no classes – credit or non-credit – will be held and no college services will be available. The "no classes" dates do not apply to Continuing Education non-credit classes. Please note: start and end dates vary for accelerated credit courses and non-credit classes.</em>
