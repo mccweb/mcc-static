@@ -51,7 +51,9 @@ Registration is now open. New students:  You should have received an email from
 
 There are four academic registration periods: Fall, Winter, Spring and Summer.
 
-**Fall and Spring:** General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring. Winter: Accelerated credit extension courses run for three weeks in between the fall and spring semesters.
+**Fall and Spring:** General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring. 
+
+**Winter:** Accelerated credit extension courses run for three weeks in between the fall and spring semesters.
 
 **Summer:** Accelerated credit extension courses run for three, six and eight weeks with start dates in May, June and July.
 
