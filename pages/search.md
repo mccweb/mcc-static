@@ -2,9 +2,6 @@
 title: Search
 permalink: "/search/index.html"
 tags: search
-eleventyNavigation:
-  key: Search
-  order: "4"
 ---
 ## Search the website
 **Note:** Searching with this form will load relevant results on this page, below the "Search the website" button. Enter at least three characters in the Search field to get started.
