@@ -22,19 +22,116 @@ We are still here! Just in a slightly different capacity. Contact a Registrar's
 * November 26-29 - Thanksgiving recess (no classes, offices closed) 
 * December 7 - Last day of classes/ last day to withdraw from classes
 
-Student Services Center, L157 860-512-3220 (phone) 860-512-3221 (fax) [GenInfoRegistrar@manchestercc.edu](mailto:GenInfoRegistrar@manchestercc.edu) (email)
+## Contact
 
-*   [COVID-19 Information for Students](/covid-19-information/)
-*   [Request to Change Credit/No-Credit To Letter Grade (Spring 2020 Only)](/form-depot/change-back-to-letter-grade-request/)
-*   [Request Transcript](../transcripts/)
-*   [Search for Courses](/programs-courses/search-for-courses/)
-*   [Senior Citizens Registration Form](/enrollment/registrar/senior-citizen-registration/)
-*   [Student Rights-FERPA Notice](http://catalog.mcc.commnet.edu/content.php?catoid=10&navoid=1049#students_rights)
-*   [Withdrawal and Refund Policies](/withdrawal-and-refund-policies)
+Student Services Center, L157 
+860-512-3220 (phone) 
+860-512-3221 (fax) 
+[GenInfoRegistrar@manchestercc.edu](mailto:GenInfoRegistrar@manchestercc.edu) (email)
 
-To meet with an advisor:
+## Resources
 
-*   To schedule an appointment with an advisor, fill out the [contact form](https://www.manchestercc.edu/offices/student-affairs/advising-counseling/academic-advising/connect-with-advising/).
+* [COVID-19 Information for Students](/covid-19-information/)
+* [Request to Change Credit/No-Credit To Letter Grade (Spring 2020 Only)](/form-depot/change-back-to-letter-grade-request/)
+* [Request Transcript](../transcripts/)
+* [Search for Courses](https://ssb-prod.ec.commnet.edu/pls/x/bzskfcls.P_CrseSearch)
+* [Senior Citizens Registration Form](/enrollment/registrar/senior-citizen-registration/)
+* [Student Rights-FERPA Notice](http://catalog.mcc.commnet.edu/content.php?catoid=10&navoid=1049#students_rights)
+* [Withdrawal and Refund Policies](/withdrawal-and-refund-policies)
+
+## To meet with an advisor:
+
+*   To schedule an appointment with an advisor, send an email to [geninfocounseling@manchestercc.edu](mailto:geninfocounseling@manchestercc.edu).
 *   Please view the YouTube tutorials for [DegreeWorks](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FodDEE3VEgC8&data=02%7C01%7CSVincent%40mcc.commnet.edu%7Cbdf2dd8e8b4745ef538508d7dbe5cfde%7C679df878277a496aac8dd99e58606dd9%7C0%7C0%7C637219652382340667&sdata=m61X6edu3PZmAbQtW8uZEpptIRFseZbahRQGv0qOjO8%3D&reserved=0) and help with [Adding/Dropping](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fyoutu.be%2FIXLflm5XqXY&data=02%7C01%7CSVincent%40mcc.commnet.edu%7Cbdf2dd8e8b4745ef538508d7dbe5cfde%7C679df878277a496aac8dd99e58606dd9%7C0%7C0%7C637219652382340667&sdata=6C2rbauX7e4%2B5uAZK6laxgM48vijOoE4e1Rtq3tkRtU%3D&reserved=0) a course.
 
-Registration is now open. New students:  You should have received an email from the Admissions Office with your placement.  Please view the [New Student Orientation](/enrollment/new-student-orientation/) page for more information. \[expand title="Registering for Classes" tag="h2" id="registering"\] There are four academic registration periods: Fall, Winter, Spring and Summer. Fall and Spring: General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring. Winter: Accelerated credit extension courses run for three weeks in between the fall and spring semesters. Summer: Accelerated credit extension courses run for three, six and eight weeks with start dates in May, June and July. Registration times vary depending on the student and the semester. For a detailed schedule, please refer to the [academic calendar](/catalogs). New students can register for classes once they have attended [New Student Orientation](/enrollment/new-student-orientation/). Transfer students are not required to meet with an advisor for program and/or course selection but may schedule a meeting by calling Advising and Counseling Services at 860-512-3320. Students interested in transferring credits to MCC should have their prior college transcript evaluated in the Admissions office before meeting with an advisor. Please bring the preliminary evaluation with you to your advising meeting. Students who are not pursuing a degree or certificate at MCC, plan to register for 11 credits or fewer, have an assessment test exemption, and/or meet all the requirements for testing and immunizations can register online or in person.
+Registration is now open. New students:  You should have received an email from the Admissions Office with your placement.  Please view the [New Student Orientation](/enrollment/new-student-orientation/) page for more information. 
+
+## Registering for Classes 
+
+There are four academic registration periods: Fall, Winter, Spring and Summer. 
+
+**Fall and Spring:** General fund courses run for 16 weeks in a semester format. Credit extension courses run for eight weeks in two blocks: Session I during the first eight weeks of the semester and Session II runs the second eight weeks of the semester. There is also a 12-week accelerated session offered during both the fall and spring. Winter: Accelerated credit extension courses run for three weeks in between the fall and spring semesters. 
+
+**Summer:** Accelerated credit extension courses run for three, six and eight weeks with start dates in May, June and July. 
+
+Registration times vary depending on the student and the semester. For a detailed schedule, please refer to the [academic calendar](https://www.ct.edu/academics/calendar). 
+
+New students can register for classes once they have attended New Student Orientation. Transfer students are not required to meet with an advisor for program and/or course selection but may schedule a meeting by calling Advising and Counseling Services at 860-512-3320. 
+
+Students interested in transferring credits to MCC should have their prior college transcript evaluated in the Admissions office before meeting with an advisor. Please bring the preliminary evaluation with you to your advising meeting. Students who are not pursuing a degree or certificate at MCC, plan to register for 11 credits or fewer, have an assessment test exemption, and/or meet all the requirements for testing and immunizations can register online or in person.
+
+## Add/Drop
+
+Add/drop can be done online through mycommnet, normally through the first week of classes for the full semester course.  For accelerated classes that meet less than the full 15 week semester, add/drop ends before the classes begin. You can read more about the withdrawal policy on the [withdrawal/refund page](/enrollment/registrar/withdrawal-and-refund-policies/)
+
+## Transcripts
+
+Information for requesting college transcripts can be found on the [Transcript Request page](/transcripts/).
+
+## How to Register Online
+
+1.  Go to [http://my.commnet.edu](http://my.commnet.edu/)
+2.  Log in using your NetID   and password
+3.  Click on "Banner Student & Faculty Self-Service"
+4.  Click on "Registration/Schedule"
+5.  Click on “Class Registration"
+6.  Follow instructions for "Register for Classes" or "Drop Classes" ([View video for step-by-step instructions](https://www.youtube.com/watch?v=IXLflm5XqXY))
+7.  Click on “View Schedule” at bottom of page to confirm registration
+8.  Follow prompts to initiate payment
+9.  Log off
+
+## How to View Grades
+
+1.  Go to [http://my.commnet.edu](http://my.commnet.edu/)
+2.  Log in using your NetID   and password
+3.  Click on "Banner Student & Faculty Self-Service"
+4.   Click on "Student Records"
+5.   Click on "Grades/Registration History" or "View Unofficial Transcripts"
+6.   Log off
+
+## How to Print Your Class Schedule
+
+1.  Go to [http://my.commnet.edu](http://my.commnet.edu/)
+2.  Log in using your NetID and password
+3.  Go to "Banner Student & Faculty Self-Service"
+4.  Click on "Registration/Schedule"
+5.  Click on “Student Schedule"
+6.  View/Print your schedule using your web browser's print function
+7.  Log off
+
+## Instructional Methods
+
+In response to COVID-19, the Connecticut State Community Colleges have added a number of different ways that classes may be taught, both on-ground and online. You can learn more about these methods on the [Safe Learning Options](/enrollment/registrar/safe-learning-options/) page.
+
+## Student Email
+
+Student email accounts are issued to all new credit students. The student email address is the only email by which the college and your instructors will communicate with you. Visit the “Student Email” channel located within the “Student” tab on [myCommNet](http://my.commnet.edu/) for more information.
+
+## Apply for Graduation
+
+The deadline dates for applying for graduation are:
+
+*   For **May** graduation, the deadline date is **March 15**.
+*   For **August** graduation, the deadline date is **July 15**.
+*   For **December** graduation, the deadline date is **October 15**.
+
+Students who are eligible for graduation should complete an application; however, if you have questions regarding your courses or program, you should see an advisor, and for any questions regarding the application process, please contact Degree Auditor, Matthew Bonesteel, [mbonesteel@mcc.commnet.edu](mailto:mbonesteel@mcc.commnet.edu).
+
+Applications are available by clicking the application link below. For more information, visit the [Path to Graduation](/current-students/success/path-to-graduation/) webpage, which provides answers to frequently asked questions and resources for all students as you prepare for graduation and a successful transition after college.
+
+[Download the graduation application](/static/img/graduation-application.pdf)
+
+For important dates and key deadlines, please refer to the [Academic Calendar](https://www.ct.edu/academics/calendar).
+
+[myCommNet](http://my.commnet.edu/) is an online resource for students looking to review some of their current confidential information (e.g. current class schedule, grades, academic history, account balance). Returning students are able to register online at [myCommNet](http://my.commnet.edu/), so it is beneficial for students to familiarize themselves with this site.
+
+## Forms
+
+*   [Change In Curriculum](/wp-content/uploads/formChangeInCurriculum.doc)
+*   [Declare A Major](/wp-content/uploads/formDeclareAMajor.doc)
+*   [Enrollment Verification](/wp-content/uploads/formEnrollmentVerification.pdf)
+*   [Graduation Application and Instructions](/wp-content/uploads/Graduation-Application.pdf)
+*   [Immunization Verification](/wp-content/uploads/Immunization-Form.pdf)
+*   [Medical Information Release](/wp-content/uploads/formMedicalInformationRelease.doc)
+*   [Registration Form](/wp-content/uploads/classRegistration08.pdf)
+*   [Transcript Request Form](/wp-content/uploads/formTranscriptRequest.doc)
