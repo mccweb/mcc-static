@@ -26,8 +26,9 @@ eleventyNavigation:
 <li>Get started by <a href="https://ct.elluciancrmrecruit.com/Apply/">applying online</a>. Fill out the form, provide proof of high school or college graduation or GED, and submit <a href="/static/img/immunization-form.pdf">proof of two doses of measles, mumps, rubella and varicella immunizations</a> and you'll be on your way to a degree or certificate.</li> 
 <li>Send in your SAT scores or HS Transcript. If you are transferring to MCC, send an official transcript from your previous institution.</li> 
 <li>Check out MCC's <a href="/acceptance">Accepted Students </a>page.</li> 
-<li>Attend the virtual <a href="https://www.manchestercc.edu/enrollment/new-student-orientation/">New Student Orientation</a> where you will learn about the tools necessary to succeed at MCC and have the opportunity to connect with an advisor.  You will also have the opportunity to have a schedule built for you with the new<a href="/opt-in"> "Opt-in Registration".</a></li> 
-<li>Connect with your advisor/register for courses.</li> 
+<li>Attend the virtual New Student Orientation. All new students are enrolled in the New Student Orientation upon being accepted into Manchester Community College. To access the NSO portal, please set up your myCommNet account as outlined on the <a href="/acceptance">Accepted Students </a> page and proceed to Blackboard. Once inside your Blackboard Account you will see the New Student Orientation course. Should you wish to speak with an advisor, Step 4 of the NSO will allow you to request an appointment.
+</li> 
+<li>Connect with your advisor/register for courses.</li>
 </ol>
 
 <hr>
