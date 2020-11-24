@@ -10,7 +10,7 @@ eleventyNavigation:
 # Welcome to Manchester Community College
 
 <p>While the main Manchester Community College website is still offline, please use this temporary website as your resource for important information.</p>
-<p> The deadline for withdrawing for Fall 2020 classes is Monday, December 7. You can withdraw online - with no refund - in Banner self-service. Access your account via <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html" aria-describedby="external">myCommNet</a>
+<p> The deadline for withdrawing from Fall 2020 classes is Monday, December 7. You can withdraw online - with no refund - in Banner self-service. Access your account via <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html" aria-describedby="external">myCommNet</a>
 <p>For the info you need regarding COVID-19 guidelines and resources, visit the <a href="/covid-19-information/index.html">COVID-19 Information</a> page.</p>
 <p>If you are trying to connect with a certain department or sign up for an appointment, please use the contact information below.</p>
 <p>You can still search for courses, register, access Banner services, Blackboard and Office 365 via <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html" aria-describedby="external">myCommNet</a>. You can also visit the <a href="http://catalog.mcc.commnet.edu/">2020-2021 Catalog</a>.</p>
