@@ -2,6 +2,9 @@
 title: Registrar's Office
 permalink: "/register/index.html"
 tags: registrar
+eleventyNavigation:
+  key: Register
+  order: "2"
 
 ---
 It's never too early to plan for the next semester's classes. The Spring 2021 [class schedule](https://ssb-prod.ec.commnet.edu/pls/x/bzskfcls.P_CrseSearch) is available for viewing on [myCommnet](http://my.commnet.edu/)  and registration is open now.
@@ -36,7 +39,7 @@ Student Services Center, L157
 * [Request Transcript](/transcripts/)
 * [Search for Courses](https://ssb-prod.ec.commnet.edu/pls/x/bzskfcls.P_CrseSearch)
 * [Student Rights-FERPA Notice](http://catalog.mcc.commnet.edu/content.php?catoid=10&navoid=1049#students_rights)
-* [Withdrawal and Refund Policies](/withdrawal-and-refund-policies)
+* [Withdrawal and Refund Policies](/enrollment/registrar/withdrawal-and-refund-policies/)
 
 ## To meet with an advisor:
 

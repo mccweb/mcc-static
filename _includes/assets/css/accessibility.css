@@ -10,6 +10,16 @@ a[href="#main"]:focus {
     text-decoration: underline;
 }
 
+a[href*=".pdf"]::after {
+    content: " (PDF)";
+    display: inline;
+}
+
+a[href*=".doc"]::after {
+    content: " (Word Document)";
+    display: inline;
+}
+
 .visually-hidden { 
     position: absolute !important;
     height: 1px; 
