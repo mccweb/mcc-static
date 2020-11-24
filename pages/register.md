@@ -42,7 +42,7 @@ Student Services Center, L157
 
 * To schedule an appointment with an advisor, send an email to [geninfocounseling@manchestercc.edu](mailto:geninfocounseling@manchestercc.edu).
 
-Registration is now open. New students:  You should have received an email from the Admissions Office with your placement.  Please view the [New Student Orientation](/enrollment/new-student-orientation/) page for more information.
+Registration is now open. New students: You should have received an email from the Admissions Office with your placement. All new students are enrolled in the New Student Orientation upon being accepted into Manchester Community College. To access the NSO portal, please set up your myCommNet account as outlined on the [Accepted Students](/acceptance) page and proceed to Blackboard. Once inside your Blackboard Account you will see the New Student Orientation course. Should you wish to speak with an advisor, Step 4 of the NSO will allow you to request an appointment.
 
 ## Registering for Classes
 
@@ -125,11 +125,11 @@ For important dates and key deadlines, please refer to the [Academic Calendar](h
 
 ## Forms
 
-* [Change In Curriculum](/wp-content/uploads/formChangeInCurriculum.doc)
-* [Declare A Major](/wp-content/uploads/formDeclareAMajor.doc)
-* [Enrollment Verification](/wp-content/uploads/formEnrollmentVerification.pdf)
-* [Graduation Application and Instructions](/wp-content/uploads/Graduation-Application.pdf)
-* [Immunization Verification](/wp-content/uploads/Immunization-Form.pdf)
-* [Medical Information Release](/wp-content/uploads/formMedicalInformationRelease.doc)
-* [Registration Form](/wp-content/uploads/classRegistration08.pdf)
-* [Transcript Request Form](/wp-content/uploads/formTranscriptRequest.doc)
+* [Change In Curriculum](/static/img/formChangeInCurriculum.doc)
+* [Declare A Major](/static/img/formDeclareAMajor.doc)
+* [Enrollment Verification](/static/img/formEnrollmentVerification.pdf)
+* [Graduation Application and Instructions](/static/img/Graduation-Application.pdf)
+* [Immunization Verification](/static/img/Immunization-Form.pdf)
+* [Medical Information Release](/static/img/formMedicalInformationRelease.doc)
+* [Registration Form](/static/img/classRegistration08.pdf)
+* [Transcript Request Form](/static/img/Transcript-Request-Form.pdf)
