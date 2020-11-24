@@ -32,9 +32,8 @@ Student Services Center, L157
 
 ## Resources
 
-* [COVID-19 Information for Students](https://app.forestry.io/sites/ot0mscqrzaifea/#/pages/pages-covid-19-information-md/)
-* [Request to Change Credit/No-Credit To Letter Grade (Spring 2020 Only)](/form-depot/change-back-to-letter-grade-request/)
-* [Request Transcript](../transcripts/)
+* [COVID-19 Information for Students](/covid-19-information/)
+* [Request Transcript](/transcripts/)
 * [Search for Courses](https://ssb-prod.ec.commnet.edu/pls/x/bzskfcls.P_CrseSearch)
 * [Student Rights-FERPA Notice](http://catalog.mcc.commnet.edu/content.php?catoid=10&navoid=1049#students_rights)
 * [Withdrawal and Refund Policies](/withdrawal-and-refund-policies)
