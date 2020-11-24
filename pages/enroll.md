@@ -37,8 +37,8 @@ eleventyNavigation:
 <p>Register one of three ways:</p>
 <ol>
 <li>Through your <a href="https://ssb-prod.ec.commnet.edu/luminis/login.html">myCommNet</a> account.</li>
-<li>Schedule a time to talk with an advisor by calling 860-512-3320 or sending an email to <a href="mailto:geninfocounseling@manchestercc.edu">geninfocounseling@manchestercc.edu</a>.</li>
-<li>Have an advisor build a schedule for you.</li>
+<li>Schedule a time to talk with an advisor by calling 860-512-3320 or submitting the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUOFdPU0hIUkdSUE9DNlFBME9FVTYyUTNaQy4u">online contact form</a>.</li>
+<li>Are you a continuing student and want an advisor to build a schedule for you based on your current major and academic plan? If so, take a minute to fill out the <a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUNU02V1ZOQktGS1A0Uzk1UElNWTdLOUhJRy4u">Opt-In Registration form</a> and request an "opt in schedule."</li>
 </ol>
 
 <hr>
@@ -56,7 +56,7 @@ eleventyNavigation:
 <h4>Advising</h4>
 <ul>
 <li>Phone: 860-512-3320</li>
-<li>Email: <a href="mailto:geninfocounseling@manchestercc.edu">geninfocounseling@manchestercc.edu</a></li>
+<li><a href="https://forms.office.com/Pages/ResponsePage.aspx?id=ePidZ3onakmsjdmeWGBt2b1TaVefUN5Krjd0aUc1swVUOFdPU0hIUkdSUE9DNlFBME9FVTYyUTNaQy4u">Online contact form</a></li>
 <li>Registering for courses, transferring to another college</li>
 </ul>
 <h4>Financial Aid</h4>
